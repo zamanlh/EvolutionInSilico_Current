@@ -30,7 +30,7 @@ Since we will be using, extending, and creating computational models of evolutio
 
 **Feel free to chat with me about your programing skill level or other concerns about the prerequisites if you have any concerns.**  
 
-### Assesment
+### Assessment
 - 40% Group Homework Assignments
 - 30% Group Term Project and Presentation
 - 20% Literature Summaries
@@ -41,9 +41,9 @@ We will approach topics about Evolution In Silico from primary literature readi
 
 ### Pandemic Semester Plans
 
-In a _Typical_ semester, several class periods are spent working in groups on the homeworks or in class lab assignments so that I can help folks get where they need to be. This is the hardest part for me moving to online instruction. I'm still looking at tools that will make this as painless as possible for you all, and as close to me walking around the class answering your questions as they come up as I can. Tentatively, though this could change, I'd like to use Github Classrooms to manage the labs and assignments, which will give you all a place to code collaboratively without having to worry about getting everything installed on your own computers! 
+In a _Typical_ semester, several class periods are spent working in groups on the homework or in class lab assignments so that I can help folks get where they need to be. This is the hardest part for me moving to online instruction. I'm still looking at tools that will make this as painless as possible for you all, and as close to me walking around the class answering your questions as they come up as I can. Tentatively, though this could change, I'd like to use Github Classrooms to manage the labs and assignments, which will give you all a place to code collaboratively without having to worry about getting everything installed on your own computers! 
 
-My plan for the lectures is to have shorter recordings posted that you can watch on Perusall and be able to comment and ask questions/respond to questions from your classmates asychronously for *participation* points. These will be graded by completion, but I'll also be going through and trying to interact with questions and use them to help guide discussions and followup lectures! Although challenging, I'd also like to maintain a synchronous component of the class, where we have discussions about papers, lectures, and lab assignments that aren't recorded so folks can feel free to ask any questions without worry (so please don't record these on your end either). My plan is to have ***NO MORE*** than 1 of these a week, with an average of 2/month. I'll send around a note and survey about this the first week of class. 
+My plan for the lectures is to have shorter recordings posted that you can watch on Perusall and be able to comment and ask questions/respond to questions from your classmates asynchronously for *participation* points. These will be graded by completion, but I'll also be going through and trying to interact with questions and use them to help guide discussions and followup lectures! Although challenging, I'd also like to maintain a synchronous component of the class, where we have discussions about papers, lectures, and lab assignments that aren't recorded so folks can feel free to ask any questions without worry (so please don't record these on your end either). My plan is to have ***NO MORE*** than 1 of these a week, with an average of 2/month. I'll send around a note and survey about this the first week of class. 
 
 ### Topics
 NB: This is a draft list of topics that may change depending on enrolled students' interests. 

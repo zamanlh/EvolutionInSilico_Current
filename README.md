@@ -5,11 +5,10 @@
 #
 ## Instructor Information
 **Luis Zaman, Ph.D.**  
-Ecology & Evolutionary Biology and Complex Systems 
-
-Email: zamanlh@umich.edu *(I prefer Canvas posts/discussions)*  
-Phone: (734) 615-2828
-Office Hours: Wednesdays 10-11:30 by Appointment - (made before 9pm the day before)
+Assistant Professor of Ecology & Evolutionary Biology and Complex Systems 
+- Email: zamanlh@umich.edu *(I prefer Canvas posts/discussions)*
+- Phone: (734) 615-2828
+- Office Hours: Wednesdays 10-11:30 by Appointment - (made before 9pm the day before)
 
 ## Course Information
 ### Description

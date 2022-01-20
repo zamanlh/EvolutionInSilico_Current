@@ -1,3 +1,5 @@
+[![Open Class Repo on Repl.it](https://repl.it/badge/github/unknownblueguy6/MineSweeper)](https://repl.it/github/zamanlh/EvolutionInSilico_Current)
+
 # Lab1 - Luria-Delbrück Simulation
 The first lab for Evolution in Silico! 
 
